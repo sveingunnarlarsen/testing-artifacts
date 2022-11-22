@@ -7,7 +7,7 @@
 	},
 	"name": "Testing",
 	"description": "Artifacts used for testing various functionality",
-	"ver": "22.11.22.149",
+	"ver": "22.11.22.1411",
 	"enableCICD": true,
 	"apps": [],
 	"api": [
